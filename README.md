@@ -16,6 +16,6 @@ Read the full report [here](https://safaa.dev/greenwood_paper)
 </p> 
 
 ## Contibutors and Acknowledgement
-Created by: Safa Yousif </br>
-Team Members: Abdullah Marghoobul, Michal Kukula, Yenziwe Temawelase, Jyn Wei </br>
+Group Leader: Safa Yousif <br>
+Group Members: Abdullah Marghoobul, Michal Kukula, Yenziwe Temawelase, Jyn Wei </br>
 Acknowledgements to Dr.Marina Ng, our supervisor and our clients; Dr.Ee Phin Wong, Dr.Yen Yi Loo, Mr.Noah Thong. Special thanks to Mr. Naufal Rahman for his support.

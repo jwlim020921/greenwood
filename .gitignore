@@ -4,3 +4,6 @@ venv/
 .idea
 *.log
 greenwood/data/
+greenwood/model/dataset
+.vscode/
+opt/
