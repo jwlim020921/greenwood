@@ -2,3 +2,8 @@
 __pycache__/
 venv/
 .idea
+*.log
+greenwood/data/
+greenwood/model/dataset
+.vscode/
+opt/

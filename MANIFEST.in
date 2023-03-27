@@ -1,0 +1,15 @@
+[metadata]
+name = greenwood
+version = 0.01
+author = Safa Yousif
+author_email = safa.yousif@outlook.com
+description = Forest management application to detect logging, poaching, and track elephant movement
+
+[options]
+packages = find:
+install_requires =
+    -r requirements.txt
+
+[options.packages.find]
+exclude =
+    tests
